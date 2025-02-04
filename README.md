@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filip Matevski</h1>
-<h3 align="center">QA Engineer I have recently completed the Academy of Software Tester at SEAVUS Education and Development Center (SEDC), where I acquired comprehensive knowledge in both Manual QA and Automation Testing. I am excited to make a career change and transition into the dynamic field of IT. Currently, I am attending the academy at Semos and learning Python to further enhance my skill set.</h3>
+<h3 align="center">I recently made a decisive career change and successfully completed the Python Academy
+ at Semos, as well as the Academy of Software Tester program at Qinshift Academy.
+ Through these programs, I gained strong expertise in Python development, along with
+ comprehensive knowledge in Manual QA and Automation Testing.
+ I am particularly passionate about working with Python and exploring its applications in
+ software testing and development. Now, I am actively seeking an engaging work
+ environment where I can leverage my technical skills, discipline, and problem-solving
+ mindset. I am eager to contribute to a team while continually advancing both personally
+ and professionally.</h3>
 
 - 📫 How to reach me **filipmatevski92@gmail.com**
 
